@@ -1,0 +1,2 @@
+# documentration.js
+javascript
